@@ -1,6 +1,8 @@
 !function () {
     "use strict";
 
+    //VERSION WITH ADS DISABLED
+
     window.servercustomws = undefined;
 
     function connectServerWs() {
