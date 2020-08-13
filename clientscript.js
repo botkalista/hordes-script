@@ -1,8 +1,6 @@
 !function () {
     "use strict";
 
-    const ws = new WebSocket('ws://hordes-server.ddns.net:7777');
-
     window.servercustomws = undefined;
 
     function connectServerWs() {
