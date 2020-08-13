@@ -31715,8 +31715,8 @@
     }
     class kC extends Ot {
         constructor(t) {
-            super(),
-                Nt(this, t, xC, wC, h, {})
+            super();
+            //Nt(this, t, xC, wC, h, {})
         }
     }
     function $C(t, e, s) {
